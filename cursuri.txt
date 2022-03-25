@@ -1,0 +1,8 @@
+Institutia noastra va pune la dispozitie urmatoarele cursuri:
+
+1. C++ Fundamentals - Instructor: Raul Tabacu - Data incepere: 01.04.2019 - Nivel: Associate - Tip examen: teoretic
+2. Machine Learning - Instructor: Robert Gargalac - Data incepere: 01.01.2021 - Nivel: Professional - Tip examen: practic
+3. Baze de date - Instructor: Madalina Ghetu - Data incepere: 01.03.2021 - Nivel: Associate - Tip examen: practic
+4. Python Fundamentals - Instructor: Horia Calin - Data incepere: 01.06.2021 - Nivel: Associate - Tip examen: practic
+5. Python Advanced - Instructor: Horia Calin - Data incepere: 01.09.2021 - Nivel: Associate - Tip examen: practic
+6. Germana 10 - Instructor: Frida Liechtenstein - Data incepere: 10.10.10010 - Nivel: C2
